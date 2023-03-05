@@ -73,4 +73,8 @@ if a is b:
 else:
     print("a is b -- ",False,"//")
 num = int(input())
-print(bin(num))   
+print(bin(num))
+num2 = int(input())
+print(oct(num2))
+num3 = int(input())
+print(hash(num3))
