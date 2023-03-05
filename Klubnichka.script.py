@@ -59,7 +59,7 @@ def Klubnika():
 print("Klubnichka.script1.0.1//")
 #str input.'Work with str':
 name = str(input("speak.out('Hello mine!');"))
-if name ==("planets = ('Меркурий','Венера','Земля','Марс','Юпитер','Сатурн','Уран','Нептун'); dowhile i in cycle(len(planets)):sreak.out(planets[0q]);"):
+if name ==("planets = ('Меркурий','Венера','Земля','Марс','Юпитер','Сатурн','Уран','Нептун'); dowhile i in cycle(len(planets)):speak.out(planets[0q]);"):
     print("Меркурий")
 a = int(input())
 b = int(input())
