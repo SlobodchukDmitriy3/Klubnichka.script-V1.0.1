@@ -80,7 +80,9 @@ num2 = int(input())
 print(oct(num2))
 num3 = int(input())
 print(hash(num3))
-name = str(input("wht's your name, user?"))
-if name == "Dmitrity":
-    print("cool;")
- 
+def metacharset("Hello Dmitriy"):
+    if abs(a-b) and abs(c-d):
+        return print(True)
+    else:
+        return print(False)
+metacahrset(a,b,c,d)
