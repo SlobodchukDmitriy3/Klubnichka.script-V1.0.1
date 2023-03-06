@@ -48,6 +48,8 @@ from tkinter import*
 from tkinter.simpledialog import*
 window = Tk()
 window.title("Klubnichka.script//V1.0.1")
+colors = ['whte','black']
+bg = fill.random.choise(colors)
 c=Canvas(window, width=400,height=400, bg='white')
 mas=[]
 def Klubnika():
@@ -78,3 +80,7 @@ num2 = int(input())
 print(oct(num2))
 num3 = int(input())
 print(hash(num3))
+name = str(input("wht's your name, user?"))
+if name == "Dmitrity":
+    print("cool;")
+ 
