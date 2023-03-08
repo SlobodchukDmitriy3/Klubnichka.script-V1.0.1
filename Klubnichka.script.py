@@ -80,4 +80,4 @@ num2 = int(input())
 print(oct(num2))
 num3 = int(input())
 print(hash(num3))
-
+print("speak.out()")
